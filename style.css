@@ -1,0 +1,26 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.leftcon{
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+	height: 350px;
+	border-radius: 20px;
+}
+.num{
+	background:orange;
+	width: 40px;
+	height: 40px;
+
+}
+.endtxt{
+	font-family: 'Montserrat', sans-serif;
+   color: #BDBDBD;
+   font-size: 14px;
+}
+h1{
+   font-family: 'Playfair Display', serif;
+}
+h4{
+	font-weight: bold;
+}
